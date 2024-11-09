@@ -1,5 +1,5 @@
 # Online Blood Bank Management System in PHP with Source Code
-The **Blood Bank System Project in PHP** is a simple project created using PHP, JavaScript, Bootstrap, and CSS the Blood Bank Framework in PHP.
+The **Blood Bank System Project** is a simple project created using PHP, JavaScript, Bootstrap, and CSS the Blood Bank Framework in PHP.
 
 There is an admin and user side to the project. All management can be handled by the administrator, such as managing blood donors, checking and managing the blood need request, adding the nation, state, region, area, and so on.
 
@@ -15,7 +15,7 @@ The architecture of this system is fairly basic so that when operating on it, th
 
 # Online Blood Bank Management System Project in PHP: Features
 
-* **Manage Custome**r – The admin has access to customer management. He can update the blood, can update camp details users, and can view the details of the customer who requested blood.
+* **Manage Customer** – The admin has access to customer management. He can update the blood, can update camp details users, and can view the details of the customer who requested blood.
 
 * **Manage Donator** – The admin has access to the donator of the blood. He can update the details of the donator.
 
@@ -41,11 +41,11 @@ The frontend of this Online Blood Bank Management System in PHP has these basic 
 * **Login and Logout**
 
 # Snapshots of Online Blood Bank Management System in PHP
-* Admin Side:
+* **Admin Side:**
 
 ![image](https://github.com/user-attachments/assets/7a08fa94-c576-4ec4-b587-963659a69f5d)
 
-* Patient Side:
+* **Patient Side:**
 
 ![image](https://github.com/user-attachments/assets/080cd478-97b5-4bc6-bf60-18567de49d07)
 
